@@ -1,0 +1,10 @@
+README.md
+setup.py
+Ray_lambda_ds12.egg-info/PKG-INFO
+Ray_lambda_ds12.egg-info/SOURCES.txt
+Ray_lambda_ds12.egg-info/dependency_links.txt
+Ray_lambda_ds12.egg-info/top_level.txt
+my_ray_lambda_ds12/__init__.py
+my_ray_lambda_ds12/clothes.py
+my_ray_lambda_ds12/my_mod.py
+my_ray_lambda_ds12/my_script.py
